@@ -7,7 +7,6 @@ class Solution {
 public:
    
    vector<vector<int>> res; // final result array
-   
 
    // find path passing graph by reference
    void findPath(vector<vector<int>> &graph,vector<bool> vis,int node,vector<int> temp)
