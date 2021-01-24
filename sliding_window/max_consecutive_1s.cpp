@@ -1,3 +1,5 @@
+// beats 98 %
+
 #include<bits/stdc++.h>
 using namespace std;
 class Solution {
