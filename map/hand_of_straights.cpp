@@ -49,11 +49,6 @@ public:
             if(j!=W)
                 return(false);
         }
-      
-        
-        
         return true;
-        
-        
     }
 };
